@@ -1,8 +1,9 @@
 /**
  * @author Windy Zoeng
  */
-public class Prime_LoopCount {
-    public void test(int num) {
+public class SumOfPrime {
+
+    public void loopCount(int num) {
         long start = System.currentTimeMillis();    //取开始时间
         int count = 0;
         int sum = 0;
@@ -32,8 +33,32 @@ public class Prime_LoopCount {
         System.out.println("sum of prime is: " + sum);
     }
 
+    public void speed(int n) {
+        long start = System.currentTimeMillis();    //取开始时间
+        int sum = 0;    //加和
+        boolean flag;   //质数flag
+        for (int i = 2; i <= n; i++) {
+            if (i % 2 == 0 && i != 2)
+                continue; //偶数和1排除
+            flag = true;
+            for (int j = 2; j <= Math.sqrt(i); j++) {
+                if (i % j == 0) {
+                    flag = false;
+                    break;
+                }
+            }
+            if (flag)
+                sum += i;
+        }
+        long end = System.currentTimeMillis();
+        System.out.println("The time cost is: " + (end - start));
+        System.out.println("sum of all prime is: " + sum);
+    }
     public static void main(String[] args) {
-        Prime_LoopCount sumOfPrime = new Prime_LoopCount();
-        sumOfPrime.test(200000);
+        SumOfPrime sumOfPrime = new SumOfPrime();
+        System.out.println("----Solution1---");
+        sumOfPrime.speed(200000);
+        System.out.println("----Solution2---");
+        sumOfPrime.loopCount(200000);
     }
 }
