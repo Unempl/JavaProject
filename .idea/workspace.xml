@@ -70,53 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="SumOfPrime" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="SumOfPrime" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Prime_LoopCount" />
       <item itemvalue="Application.Prime_Speed" />
@@ -155,6 +108,7 @@
       <workItem from="1590555387080" duration="327000" />
       <workItem from="1590557631421" duration="379000" />
       <workItem from="1590558030069" duration="1478000" />
+      <workItem from="1590572171803" duration="3557000" />
     </task>
     <servers />
   </component>
@@ -170,34 +124,34 @@
       <screen x="0" y="0" width="1418" height="759" />
     </state>
     <state x="413" y="38" key="#Prime_Speed/0.0.1418.759@0.0.1418.759" timestamp="1590558101270" />
-    <state x="301" y="38" key="#Project_Structure" timestamp="1590559365776">
+    <state x="301" y="38" key="#Project_Structure" timestamp="1590579452363">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state x="301" y="38" key="#Project_Structure/0.0.1418.759@0.0.1418.759" timestamp="1590559365776" />
+    <state x="301" y="38" key="#Project_Structure/0.0.1418.759@0.0.1418.759" timestamp="1590579452363" />
     <state x="164" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590558175446">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
     <state x="164" y="34" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1418.759@0.0.1418.759" timestamp="1590558175446" />
-    <state x="439" y="162" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590559360028">
+    <state x="439" y="162" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590579443836">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state x="439" y="162" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1418.759@0.0.1418.759" timestamp="1590559360028" />
-    <state width="1374" height="189" key="GridCell.Tab.0.bottom" timestamp="1590559509337">
+    <state x="439" y="162" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1418.759@0.0.1418.759" timestamp="1590579443836" />
+    <state width="1374" height="189" key="GridCell.Tab.0.bottom" timestamp="1590579476287">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="189" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1590559509337" />
-    <state width="1374" height="189" key="GridCell.Tab.0.center" timestamp="1590559509337">
+    <state width="1374" height="189" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1590579476287" />
+    <state width="1374" height="189" key="GridCell.Tab.0.center" timestamp="1590579476287">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="189" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1590559509337" />
-    <state width="1374" height="189" key="GridCell.Tab.0.left" timestamp="1590559509337">
+    <state width="1374" height="189" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1590579476287" />
+    <state width="1374" height="189" key="GridCell.Tab.0.left" timestamp="1590579476287">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="189" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1590559509337" />
-    <state width="1374" height="189" key="GridCell.Tab.0.right" timestamp="1590559509337">
+    <state width="1374" height="189" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1590579476287" />
+    <state width="1374" height="189" key="GridCell.Tab.0.right" timestamp="1590579476287">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
-    <state width="1374" height="189" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1590559509337" />
+    <state width="1374" height="189" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1590579476287" />
     <state x="189" y="0" key="SettingsEditor" timestamp="1590559177942">
       <screen x="0" y="0" width="1418" height="759" />
     </state>
